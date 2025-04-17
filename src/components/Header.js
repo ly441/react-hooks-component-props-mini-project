@@ -1,5 +1,5 @@
 import React from "react";
-function Header(){
-    
+function Header() {
+  return;
 }
-export default Headers;
+export default Header;
